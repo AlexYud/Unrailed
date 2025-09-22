@@ -1,0 +1,24 @@
+# Ignore build and intermediate files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore IDE/project-specific files
+.vs/
+*.sln
+
+# Ignore platform-specific files
+*.log
+*.pdb
+
+# Ignore system files
+Thumbs.db
+*.DS_Store
+
+# If using Rider/VSCode
+.idea/
+.vscode/
+
+# Optional: ignore Config if you don’t want personal settings shared
+# Config/
